@@ -1,0 +1,20 @@
+C:\Develop\SQLGenerator\SQLGenerator\bin\Debug\SQLGenerator.exe
+C:\Develop\SQLGenerator\SQLGenerator\bin\Debug\SQLGenerator.pdb
+C:\Develop\SQLGenerator\SQLGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Develop\SQLGenerator\SQLGenerator\obj\x86\Debug\SQLGenerator.DishSelect.resources
+C:\Develop\SQLGenerator\SQLGenerator\obj\x86\Debug\SQLGenerator.Properties.Resources.resources
+C:\Develop\SQLGenerator\SQLGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Develop\SQLGenerator\SQLGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Develop\SQLGenerator\SQLGenerator\obj\x86\Debug\SQLGenerator.exe
+C:\Develop\SQLGenerator\SQLGenerator\obj\x86\Debug\SQLGenerator.pdb
+F:\SQLGenerator\SQLGenerator\obj\x86\Debug\SQLGenerator.exe
+F:\SQLGenerator\SQLGenerator\obj\x86\Debug\SQLGenerator.pdb
+C:\Users\Александр\Desktop\Новая папка (2)\SQLGenerator\SQLGenerator\obj\x86\Debug\SQLGenerator.exe
+C:\Users\Александр\Desktop\Новая папка (2)\SQLGenerator\SQLGenerator\obj\x86\Debug\SQLGenerator.pdb
+C:\Users\Александр\Desktop\Новая папка (2)\SQLGenerator\SQLGenerator\bin\Debug\SQLGenerator.exe
+C:\Users\Александр\Desktop\Новая папка (2)\SQLGenerator\SQLGenerator\bin\Debug\SQLGenerator.pdb
+C:\Users\Александр\Desktop\Новая папка (2)\SQLGenerator\SQLGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Новая папка (2)\SQLGenerator\SQLGenerator\obj\x86\Debug\SQLGenerator.DishSelect.resources
+C:\Users\Александр\Desktop\Новая папка (2)\SQLGenerator\SQLGenerator\obj\x86\Debug\SQLGenerator.Properties.Resources.resources
+C:\Users\Александр\Desktop\Новая папка (2)\SQLGenerator\SQLGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Александр\Desktop\Новая папка (2)\SQLGenerator\SQLGenerator\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,431 @@
+﻿SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Салат') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Салат') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Салат') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Салат') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Салат') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Салат') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Все типы') AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(garlic<>0) 
+SELECT * FROM RecipesTable WHERE
+(garlic<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Салат') AND 
+(type = 'Десерт') 
+SELECT * FROM RecipesTable WHERE
+(garlic<>0) 
+SELECT * FROM RecipesTable WHERE
+(garlic<>0) AND 
+(type = 'Все типы') 
+SELECT * FROM RecipesTable WHERE
+(garlic<>0) AND 
+(type = 'Все типы') AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(carrot<>0) AND 
+(type = 'Все типы') 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(carrot<>0) AND 
+(type = 'Все типы') AND 
+(type = 'Салат') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(type = 'Все типы') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(type = 'Все типы') AND 
+(type = 'Десерт') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Все типы') AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(sugar<>0) AND 
+(type = 'Все типы') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(sugar<>0) AND 
+(type = 'Все типы') AND 
+(type = 'Десерт') 
+SELECT * FROM RecipesTable WHERE
+(garlic<>0) AND 
+(type = 'Все типы') AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(garlic<>0) 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(banana<>0) AND 
+(garlic<>0) 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(garlic<>0) AND 
+(type = 'Все типы') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(sugar<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(banana<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(banana<>0) AND 
+(sugar<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Десерт') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(banana<>0) AND 
+(sugar<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Десерт') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(banana<>0) AND 
+(sugar<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Десерт') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(garlic<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(garlic<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(garlic<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Десерт') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(garlic<>0) AND 
+(type = 'Все типы') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(garlic<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Салат') AND 
+(type = 'Десерт') 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(banana<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(banana<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Второе блюдо') AND 
+(type = 'Салат') AND 
+(type = 'Десерт') 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(banana<>0) 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(banana<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(type = 'Все типы') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) AND 
+(type = 'Все типы') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Салат') AND 
+(type = 'Десерт') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(banana<>0) AND 
+(type = 'Второе блюдо') 
+SELECT * FROM RecipesTable WHERE
+(carrot<>0) AND 
+(garlic<>0) AND 
+(type = 'Первое блюдо') AND 
+(type = 'Десерт') 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(carrot<>0) AND 
+(garlic<>0) AND 
+(type = 'Все типы') 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(carrot<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) AND 
+(type = 'Все типы') 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(carrot<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) AND 
+(type = 'Все типы') 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(carrot<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(carrot<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(apple<>0) AND 
+(carrot<>0) AND 
+(banana<>0) AND 
+(garlic<>0) AND 
+(sugar<>0) 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(type = 'Первое блюдо') 
+SELECT * FROM RecipesTable WHERE
+(banana<>0) AND 
+(type = 'Первое блюдо') 
